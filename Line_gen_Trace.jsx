@@ -26,7 +26,7 @@
         }
 
         // UI構築
-        var dialog = new Window("dialog", "なぞり生成 v3.2");
+        var dialog = new Window("dialog", "なぞり v3.2");
         dialog.orientation = "column";
         dialog.alignChildren = ["fill", "top"];
         dialog.spacing = 10;
