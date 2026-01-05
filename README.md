@@ -35,6 +35,9 @@
 #### 設定値を出力
 * 設定項目をテキストとして生成します
 
+<br>
+<br>
+
 ### 円版
 <img width="450" alt="円設定項目" src="https://github.com/user-attachments/assets/fad24a92-a0fe-4cdd-94d3-8c45293a2d72" />
 
