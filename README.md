@@ -7,17 +7,20 @@
 
 ## 使い方
 * お好きなファイルをダウンロードし、イラレのスクリプトとして開いてください
-    *  なぞり版：[Line_gen_Trace.jsxLine_gen_Trace.jsxｔ(L
+    *  なぞり版：[Line_gen_Trace.jsx](Line_gen_Trace.jsx)
     *  円版：[Line_gen_Circle.jsx](Line_gen_Circle.jsx)
 
 ## 作例
+#### なぞり版
+<img width="550" alt="なぞり1" src="https://github.com/user-attachments/assets/bc942329-8330-4072-b6f1-55f8d483dace" />
+<img width="550" alt="なぞり2" src="https://github.com/user-attachments/assets/5142ecdf-9def-4d9e-8312-4b0d322d21bb" />
+#### 円版
+<img width="550" alt="円1" src="https://github.com/user-attachments/assets/5ad1843f-55ad-4b52-a70c-d8de417ceeb6" />
+<img width="550" alt="円2" src="https://github.com/user-attachments/assets/a39c0cd7-1099-4ca0-ba7c-0419d9e43407" />
+<img width="550" alt="円3" src="https://github.com/user-attachments/assets/42eed10a-0f3c-4d2e-adca-a57cc84af078" />
 
-
-## なぞり版
-
-
-### 設定項目
-
+### なぞり版 - 設定項目
+<img width="450" alt="なぞり設定項目" src="https://github.com/user-attachments/assets/684f2db6-4b06-4752-bc58-f72e38d93b80" />
 
 #### ドット個数
 * 縦、横、奥行きのドット個数を指定します
@@ -43,3 +46,8 @@
 #### 設定値を出力
 * 設定項目をテキストとして生成します
 * 一度出力したドットパターンを再現したいときに便利です
+
+* ### 円版 - 設定項目
+<img width="450" alt="円設定項目" src="https://github.com/user-attachments/assets/fad24a92-a0fe-4cdd-94d3-8c45293a2d72" />
+
+
