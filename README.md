@@ -1,4 +1,4 @@
-# ようこそ Line Gen (alpha)へ
+# こんにちは Line Gen (alpha) です
 
 ## About
 * フリーハンドのような線を書くイラレスクリプトです
